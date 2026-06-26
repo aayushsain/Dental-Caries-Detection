@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.antigravitycli/
+.DS_Store
+.vscode/
